@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Knedme | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/uchv57pcw59rzopspx1gldtw)
+[<img align="left" alt="Knedme | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UChV57pcW59rzopsPx1glDTw)
 [<img align="left" alt="Knedme | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" />](https://www.reddit.com/user/knedme)
 [<img align="left" alt="Knedme | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/16582988/knedme)
 
