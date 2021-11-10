@@ -21,7 +21,6 @@
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>](https://java.com/)
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
 
