@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
--   🌱 I’m currently learning Lua
+-   🌱 I’m currently learning everything 🤣
 -   👯 I'm looking to collaborate with anybody
 -   📫 How to reach me: Knedme@yandex.ru
 -   🥅 2022 Goals: Do more open source projects
