@@ -21,6 +21,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
+[<img align="left" alt="Node JS" width="26px" src="https://www.nsoftware.com/ui/img/platforms/nodejs.svg" />](https://nodejs.org/en/)
 [<img align="left" alt="GNU nano" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Gnu-nano.svg" />](https://www.nano-editor.org/)
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>](https://java.com/)
 [<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
