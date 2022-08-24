@@ -23,5 +23,5 @@
 <br />
 
 ##
-<img src="https://github-readme-stats.vercel.app/api?username=Knedme&theme=dark&show_icons=true" align="left" width=400>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knedme&layout=compact&theme=dark" align="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Knedme&theme=dark&show_icons=true" align="left" width=500>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knedme&layout=compact&theme=dark" align="top" width=350>
