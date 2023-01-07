@@ -7,7 +7,7 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Sublime Text" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" />](https://www.sublimetext.com)
+[<img align="left" alt="Sublime Text" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />](https://www.sublimetext.com)
 
 <br />
 
