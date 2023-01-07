@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://i.imgur.com/R5XvYXS.gif" width="30px" height="30px" />
 
-#### I'm a Python, Java, JS dev
+#### I'm a Python & JS dev
 
 ### Languages and Tools:
 
