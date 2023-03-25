@@ -15,6 +15,7 @@
 ### My sociales:
 
 [<img align="left" alt="Knedme | Telegram" width="22px" height="22px" src="https://i.ibb.co/p6TyDwq/tg.png" />](https://t.me/Knedme)
+[<img align="left" alt="Knedme | Discord" width="22px" height="22px" src="https://i.ibb.co/5sJD8gw/discord.png" />](https://discord.com/users/1030823479412539503)
 [<img align="left" alt="Knedme | Youtube" width="22px" height="22px" src="https://i.ibb.co/MMkL9Mj/yt.png" />](https://www.youtube.com/channel/UChV57pcW59rzopsPx1glDTw)
 [<img align="left" alt="Knedme | Steam" width="22px" height="22px" src="https://i.ibb.co/q5fc9QB/steam.png" />](https://steamcommunity.com/id/Knedme/)
 
