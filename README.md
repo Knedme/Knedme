@@ -8,7 +8,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" />](#)
 [<img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](#)
-[<img align="left" alt="Notepad++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" />](#)
+[<img align="left" alt="Sublime Text" width="26px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" />](#)
 
 <br />
 
