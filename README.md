@@ -1,26 +1,26 @@
-## Hello World! <img src="https://i.imgur.com/R5XvYXS.gif" width="30px" height="30px" />
+## Hello World! <img src="./img/hello.gif" width="30px" height="30px" />
 
-#### I'm a Python & JS dev
+#### I'm a software engineer. I enjoy building all kinds of things: websites, applications, games, and more.
 
-### Languages and Tools:
+### Tech I use:
 
-[<img align="left" alt="Python" width="26px" src="./icons/python.png" />](#)
-[<img align="left" alt="JavaScript" width="26px" src="./icons/js.png" />](#)
-[<img align="left" alt="PyCharm" width="26px" src="./icons/pycharm.png" />](#)
-[<img align="left" alt="VSCode" width="26px" src="./icons/vscode.png" />](#)
-[<img align="left" alt="Sublime Text" width="26px" src="./icons/sublimetext.png" />](#)
+[<img align="left" alt="Python" width="26px" src="./img/python.svg" />](#)
+[<img align="left" alt="C" width="26px" src="./img/C.svg" />](#)
+[<img align="left" alt="JavaScript" width="26px" src="./img/js.svg" />](#)
+[<img align="left" alt="HTML" width="26px" src="./img/html.svg" />](#)
+[<img align="left" alt="CSS" width="26px" src="./img/css.svg" />](#)
 
 <br />
 
 ### My sociales:
 
-[<img align="left" alt="Knedme | Telegram" width="22px" height="22px" src="./icons/tg.png" />](https://t.me/Knedme)
-[<img align="left" alt="Knedme | Discord" width="22px" height="22px" src="./icons/discord.png" />](https://discord.com/users/498945298085969921)
-[<img align="left" alt="Knedme | Youtube" width="22px" height="22px" src="./icons/yt.png" />](https://www.youtube.com/@knedme)
-[<img align="left" alt="Knedme | Steam" width="22px" height="22px" src="./icons/steam.png" />](https://steamcommunity.com/id/Knedme/)
+[<img align="left" alt="Knedme | Telegram" width="22px" height="22px" src="./img/tg.svg" />](https://t.me/knedme_ch)
+[<img align="left" alt="Knedme | Youtube" width="22px" height="22px" src="./img/yt.svg" />](https://www.youtube.com/@knedme)
+[<img align="left" alt="Knedme | Twitter" width="22px" height="22px" src="./img/twitter.svg" />](https://twitter.com/knedme)
+[<img align="left" alt="Knedme | Discord" width="22px" height="22px" src="./img/discord.svg" />](https://discord.com/users/498945298085969921)
 
 <br />
 
 ##
-<img src="https://github-readme-stats.vercel.app/api?username=Knedme&theme=dark&show_icons=true" align="left" width=450>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knedme&layout=compact&theme=dark" align="top" width=350>
+<img src="https://github-readme-stats.vercel.app/api?username=Knedme&theme=tokyonight&show_icons=true" align="left" width=450>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knedme&layout=compact&theme=tokyonight" align="top" width=350>
