@@ -23,4 +23,4 @@
 
 ##
 <img src="https://github-readme-stats.vercel.app/api?username=Knedme&theme=tokyonight&show_icons=true" align="left" width=450>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knedme&layout=compact&theme=tokyonight" align="top" width=350>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knedme&layout=compact&theme=tokyonight" align="top" width=350>
