@@ -6,6 +6,7 @@
 
 [<img align="left" alt="Python" width="26px" src="./img/python.svg" />](#)
 [<img align="left" alt="C" width="26px" src="./img/C.svg" />](#)
+[<img align="left" alt="TypeScript" width="26px" src="./img/ts.svg" />](#)
 [<img align="left" alt="JavaScript" width="26px" src="./img/js.svg" />](#)
 [<img align="left" alt="HTML" width="26px" src="./img/html.svg" />](#)
 [<img align="left" alt="CSS" width="26px" src="./img/css.svg" />](#)
